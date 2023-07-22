@@ -10,14 +10,13 @@
 
 * Open a terminal in the folder
 * Compile the files:
-
-    g++ server.cpp -o server
+  g++ server.cpp -o server
   
   g++ flow.cpp -o flow
   
 * Run on two different terminals(independent the order):
-
   ./server
+  
   ./flow
   
 * Access the address http://localhost:8080/index.m3u8
