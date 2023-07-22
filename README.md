@@ -13,6 +13,10 @@ The Flow.cpp file simulates the generation of the video stream, as the HLS forma
 * Some chunks are a bit corrupted so the video may have some slight disturbance
 * When they finish the chunks the flow automatically restarts from the first one, most players however require a refresh to return to view the video
 
+<p align="center">
+ <a href="https://github.com/PietroValente/ServerHLS-thesis/blob/main/image/overview.png"><img src="https://github.com/PietroValente/ServerHLS-thesis/blob/main/image/overview.png" alt="" width="100%"></a>
+</p>
+
 ## Usability
 
 * Open a terminal in the folder
