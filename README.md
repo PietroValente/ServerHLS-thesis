@@ -16,8 +16,7 @@
   
 * Run on two different terminals(independent the order):
   
-  ./server
-  
+  ./server  
   ./flow
   
 * Access the address http://localhost:8080/index.m3u8
