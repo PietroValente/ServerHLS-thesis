@@ -19,15 +19,15 @@ The Flow.cpp file simulates the generation of the video stream, as the HLS forma
 
 ## Usability
 
-* Open a terminal in the folder
-* Compile the files:
+1. Open a terminal in the folder
+2. Compile the files:
   
   g++ server.cpp -o server  
   g++ flow.cpp -o flow  
   
-* Run on two different terminals(independent the order):
+3. Run on two different terminals(independent the order):
   
   ./server  
   ./flow
   
-* Access the address http://localhost:8080/index.m3u8
+4. Access the address http://localhost:8080/index.m3u8
