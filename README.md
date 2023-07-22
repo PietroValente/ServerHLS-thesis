@@ -21,11 +21,11 @@ The Flow.cpp file simulates the generation of the video stream, as the HLS forma
 
 1. Open a terminal in the folder
 2. Compile the files:
+
+   g++ server.cpp -o server  
+   g++ flow.cpp -o flow  
   
-  g++ server.cpp -o server  
-  g++ flow.cpp -o flow  
-  
-3. Run on two different terminals(independent the order):
+4. Run on two different terminals(independent the order):
   
   ./server  
   ./flow
