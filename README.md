@@ -27,7 +27,7 @@ The Flow.cpp file simulates the generation of the video stream, as the HLS forma
   
 3. Run on two different terminals(independent the order):
 
-   ./server
+   ./server  
    ./flow
   
 5. Access the address http://localhost:8080/index.m3u8
